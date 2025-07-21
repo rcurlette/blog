@@ -61,9 +61,7 @@ export default function Home() {
             <a href="/about" className="hover:text-black transition-colors">about</a>
             <a href="/writing" className="hover:text-black transition-colors">writing</a>
             <a href="/bookmarks" className="hover:text-black transition-colors">bookmarks</a>
-            <a href="/follow" className="hover:text-black transition-colors flex items-center">
-              follow <span className="ml-1">↗</span>
-            </a>
+            <a href="/follow" className="hover:text-black transition-colors flex items-center" />
             <a href="/code" className="hover:text-black transition-colors flex items-center">
               code <span className="ml-1">↗</span>
             </a>
